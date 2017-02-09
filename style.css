@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Emblema+One');
+#button-container {
+    text-align: center;
+}
+
+h1 {
+    color: red;
+    text-align: center;
+    font-family: 'Emblema One', cursive;
+}
